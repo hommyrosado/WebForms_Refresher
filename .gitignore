@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.cache
+*.log
+bin/
+obj/# Visual Studio
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.cache
+*.log
+bin/
+obj/
